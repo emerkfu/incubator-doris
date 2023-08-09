@@ -27,7 +27,7 @@ under the License.
 
 # Behavior Changed
 
-- 新增 BE 配置项 `allow_invalid_decimalv2_triteral` 以控制是否可以导入超过小数精度的 Decimal 类型数据，用于兼容之前的逻辑。
+- 新增 BE 配置项 `allow_invalid_decimalv2_literal` 以控制是否可以导入超过小数精度的 Decimal 类型数据，用于兼容之前的逻辑。
 
 # Bug Fixes
 
